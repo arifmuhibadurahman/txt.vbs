@@ -1,3 +1,3 @@
 play at your own risk
-vbs file
+```old script```
 to close just `Ctrl`+ `Shift`+`Esc` kill vbs program
